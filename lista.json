@@ -1,10 +1,26 @@
 [
   {
-    "id": "matrices-y-determinantes-matematicas-bachillerato",
-    "emoji": "🔢",
-    "title": "Matrices y determinantes. Matemáticas. Bachillerato.",
+    "id": "campo-electrico-y-magnetico-fisica-selectividad-bachillerato",
+    "emoji": "⚡",
+    "title": "Campo eléctrico y magnético. Física. Selectividad. Bachillerato.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/39a4abe0-f9a3-43a9-b86c-311289cf6e06",
+    "url": "https://notebooklm.google.com/notebook/0f2b915b-e159-46a1-aa99-e4e7075c50db",
+    "topics": []
+  },
+  {
+    "id": "gravitacion-fisica-selectividad-bachillerato",
+    "emoji": "🎓",
+    "title": "Gravitación. Física. Selectividad. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/173ea328-8768-497d-9682-e749d6e12d5e",
+    "topics": []
+  },
+  {
+    "id": "ley-de-snell-ondas-fisica-selectividad-bachillerato",
+    "emoji": "🔦",
+    "title": "Ley de Snell. Ondas. Física. Selectividad. Bachillerato",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/e83778a2-235c-4b65-97c9-3c9c96a03b79",
     "topics": []
   },
   {
@@ -32,6 +48,14 @@
     "topics": []
   },
   {
+    "id": "matrices-y-determinantes-matematicas-bachillerato",
+    "emoji": "🔢",
+    "title": "Matrices y determinantes. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/39a4abe0-f9a3-43a9-b86c-311289cf6e06",
+    "topics": []
+  },
+  {
     "id": "fuente-de-alimentacion",
     "emoji": "🔌",
     "title": "Fuente de alimentación.",
@@ -55,12 +79,4 @@
     "url": "https://notebooklm.google.com/notebook/6c5b1a41-03e5-4efa-8791-0da1b00d024e",
     "topics": []
   },
-  {
-    "id": "geometria-analitica-simulacro-con-soluciones",
-    "emoji": "📐",
-    "title": "Geometría Analítica: Simulacro con Soluciones",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/4551cf4b-ea7b-456c-8540-1ae643e088a1",
-    "topics": []
-  }
 ]
