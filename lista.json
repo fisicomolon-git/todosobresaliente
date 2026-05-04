@@ -1,82 +1,74 @@
- [
+[
   {
-    "id": "dinamica-fisica",
-    "emoji": "🏎️",
-    "title": "Dinámica Física.",
+    "id": "integrales-matematicas-bachillerato",
+    "emoji": "🐮",
+    "title": "Integrales. Matemáticas. Bachillerato.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/03b932a0-8b8f-40cf-b13f-850b5f86b83e?authuser=5",
+    "url": "https://notebooklm.google.com/notebook/70cd85f5-ec68-40d0-aa05-d88cb41da719",
     "topics": []
   },
   {
-    "id": "regla-de-tres-proporcionalidad",
-    "emoji": "🔢",
-    "title": "Regla de tres. Proporcionalidad",
+    "id": "fuente-de-alimentacion",
+    "emoji": "🔌",
+    "title": "Fuente de alimentación.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/73bfc1d0-8929-4aaf-985e-3d5cc64b6608?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "limites-y-continuidad-de-funciones",
-    "emoji": "📈",
-    "title": "Límites y continuidad de funciones.",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/efa3ec30-5402-4776-903e-baec580768d9?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "matrices-determinantes-rango",
-    "emoji": "🔢",
-    "title": "Matrices, Determinantes, Rango.",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/14fbe102-e139-4c2b-bbf8-3203483e6d90?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "ecuaciones-trigonometricas",
-    "emoji": "📐",
-    "title": "Ecuaciones trigonométricas",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/b61581c4-f02f-4f24-8333-4ec37edff047?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "todosobresaliente-educational-resources-for-mathem",
-    "emoji": "🎓",
-    "title": "TodoSobresaliente: Educational Resources for Mathematics and Physics",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/f7f0ec86-2fae-47b2-8438-256554d44f18?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "dinamica-poleas-planos-inclinados-rozamiento",
-    "emoji": "⚙️",
-    "title": "Dinámica: Poleas, planos inclinados, rozamiento...",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/8d79bbcc-587e-4b84-8314-8c51422e5d0f?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "ondas-selectividad-2-bto",
-    "emoji": "🌈",
-    "title": "Ondas. Selectividad. 2 BTO.",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/73b91421-5f3c-4028-99db-7f6c4620640c?authuser=5",
-    "topics": []
-  },
-  {
-    "id": "andalucia-selectividad-2020-matematicas-ii-matrice",
-    "emoji": "🧮",
-    "title": "Andalucía Selectividad 2020: Matemáticas II - Matrices y Determinantes",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/dc70cfbc-b151-4f78-a451-43d90cf20765?authuser=5",
+    "url": "https://notebooklm.google.com/notebook/ea2db94a-f427-4b45-8a0d-1753d5330341",
     "topics": []
   },
   {
     "id": "cean-circuitos-electronicos-analogicos",
-    "emoji": "⚡",
+    "emoji": "🔌",
     "title": "CEAN. Circuitos electrónicos analógicos.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/e10e6473-3724-423f-8207-89c4c8a1638e?authuser=5",
+    "url": "https://notebooklm.google.com/notebook/290f2bf2-849c-4d5b-8a33-55225356d9f1",
+    "topics": []
+  },
+  {
+    "id": "guia-de-evaluacion-y-rubrica-del-proyecto-intermodular-2-me",
+    "emoji": "📋",
+    "title": "Guía de Evaluación y Rúbrica del Proyecto Intermodular 2ºME",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/1cbb7b67-8978-4df3-891d-e1bc1246ae89",
+    "topics": []
+  },
+  {
+    "id": "guia-completa-de-formulacion-quimica-inorganica-iupac",
+    "emoji": "🧪",
+    "title": "Guía Completa de Formulación Química Inorgánica IUPAC",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/6c5b1a41-03e5-4efa-8791-0da1b00d024e",
+    "topics": []
+  },
+  {
+    "id": "fundamental-concepts-of-rlc-circuits-and-total-impedance",
+    "emoji": "⚡",
+    "title": "Fundamental Concepts of RLC Circuits and Total Impedance",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/d7ee0ca3-f227-4709-b6f8-04b6a28597dd",
+    "topics": []
+  },
+  {
+    "id": "super-nintendo-motherboard-repair-and-chip-restoration-guide",
+    "emoji": "🛠️",
+    "title": "Super Nintendo Motherboard Repair and Chip Restoration Guide",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/d549af99-3e19-47e9-8fe4-caff8a4eaec2",
+    "topics": []
+  },
+  {
+    "id": "geometria-analitica-simulacro-con-soluciones",
+    "emoji": "📐",
+    "title": "Geometría Analítica: Simulacro con Soluciones",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/4551cf4b-ea7b-456c-8540-1ae643e088a1",
+    "topics": []
+  },
+  {
+    "id": "metodo-todosobresaliente-estudiar-para-comprender-y-triunfar-en-la-vida",
+    "emoji": "🎓",
+    "title": "Método TodoSobresaliente: Estudiar para Comprender y Triunfar en la Vida",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/04078088-b88d-4315-8d1e-8822374c8dd3",
     "topics": []
   }
 ]
