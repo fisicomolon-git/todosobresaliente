@@ -1,10 +1,82 @@
 [
   {
-    "id": "campo-electrico-y-magnetico-fisica-selectividad-bachillerato",
-    "emoji": "⚡",
-    "title": "Campo eléctrico y magnético. Física. Selectividad. Bachillerato.",
+    "id": "mru-movimiento-rectilineo-uniforme-fisica-secundaria",
+    "emoji": "🛶",
+    "title": "MRU. Movimiento rectilíneo uniforme. Física. Secundaria.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/0f2b915b-e159-46a1-aa99-e4e7075c50db",
+    "url": "https://notebooklm.google.com/notebook/0a9a3275-e473-4591-bd52-b41db1d00db8",
+    "topics": []
+  },
+  {
+    "id": "mrua-movimiento-rectilineo-uniformemente-acelerado-caida-libre-fisica-secundaria-bachillerato",
+    "emoji": "🚀",
+    "title": "MRUA. Movimiento rectilíneo uniformemente acelerado. Caida libre. Física. Secundaria. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/fdf582b7-c59a-4ecc-8ec0-776b26ee54ff",
+    "topics": []
+  },
+  {
+    "id": "series-sucesiones-y-progresiones-matematicas-secundaria",
+    "emoji": "🔢",
+    "title": "Series, sucesiones y progresiones. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/3c811e46-c85b-4a46-99bc-5f6ee7bfa2e4",
+    "topics": []
+  },
+  {
+    "id": "mcu-movimiento-circular-uniforme-fisica-secundaria",
+    "emoji": "🏎️",
+    "title": "MCU. Movimiento circular uniforme. Física. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/4ccdce6c-5f55-4776-b06e-d0eff95a7b1d",
+    "topics": []
+  },
+  {
+    "id": "mcua-movimiento-circular-uniformemente-acelerado-fisica-secundaria",
+    "emoji": "🔄",
+    "title": "MCUA. Movimiento circular uniformemente acelerado. Física. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/4acc4dc1-82a8-41a3-bcaa-3a27880d1797",
+    "topics": []
+  },
+  {
+    "id": "regla-de-3-porcentajes-y-proporcionalidad-matematicas-secundaria",
+    "emoji": "🔢",
+    "title": "Regla de 3. Porcentajes y proporcionalidad. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/80630c18-59b0-4e25-a746-0c1495f6b8d5",
+    "topics": []
+  },
+  {
+    "id": "operaciones-con-radicales-matematicas-secundaria",
+    "emoji": "🧮",
+    "title": "Operaciones con radicales. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/4551d197-9d8b-4003-bb87-2ae8a2c34c6a",
+    "topics": []
+  },
+  {
+    "id": "composicion-de-movimientos-cinematica-fisica-secundaria",
+    "emoji": "🛶",
+    "title": "Composición de Movimientos. Cinemática. Física. Secundaria",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/cbce6895-148a-4d33-9163-5dda49e580e8",
+    "topics": []
+  },
+  {
+    "id": "curso-completo-de-dinamica-fisica-bachillerato",
+    "emoji": "🍎",
+    "title": "Curso completo de dinámica. Física. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/067eccdd-5bba-4f8e-a305-4c86ae61ff01",
+    "topics": []
+  },
+  {
+    "id": "trabajo-potencia-y-energia-fisica-secundaria",
+    "emoji": "⚡",
+    "title": "Trabajo, potencia y energía. Física. Secundaria",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/1fa96f6f-1794-45ef-bf13-a49a78874c6e",
     "topics": []
   },
   {
@@ -16,19 +88,51 @@
     "topics": []
   },
   {
-    "id": "ley-de-snell-ondas-fisica-selectividad-bachillerato",
-    "emoji": "🔦",
-    "title": "Ley de Snell. Ondas. Física. Selectividad. Bachillerato",
+    "id": "formulacion-inorganica-quimica-secundaria",
+    "emoji": "🧪",
+    "title": "Formulación Inorgánica. Química. Secundaria.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/e83778a2-235c-4b65-97c9-3c9c96a03b79",
+    "url": "https://notebooklm.google.com/notebook/6c5b1a41-03e5-4efa-8791-0da1b00d024e",
     "topics": []
   },
   {
-    "id": "rlc-electronica",
-    "emoji": "⚡",
-    "title": "RLC. Electrónica.",
+    "id": "ecuaciones-trigonometricas-matematicas-bachillerato",
+    "emoji": "📐",
+    "title": "Ecuaciones trigonométricas. Matemáticas. Bachillerato",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/d7ee0ca3-f227-4709-b6f8-04b6a28597dd",
+    "url": "https://notebooklm.google.com/notebook/28e67943-2583-45cd-9581-36898ac15ffe",
+    "topics": []
+  },
+  {
+    "id": "cean-temario-completo",
+    "emoji": "🔌",
+    "title": "CEAN. Temario completo.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/290f2bf2-849c-4d5b-8a33-55225356d9f1",
+    "topics": []
+  },
+  {
+    "id": "matrices-y-determinantes-matematicas-bachillerato",
+    "emoji": "🔢",
+    "title": "Matrices y determinantes. Matemáticas. Bachillerato",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/39b40874-ca8c-4506-9fa6-4a01524f0e8d",
+    "topics": []
+  },
+  {
+    "id": "mas-movimiento-vibratorio-armonico-simple-fisica-bachillerato",
+    "emoji": "🫨",
+    "title": "MAS. Movimiento Vibratorio Armónico Simple. Física. Bachillerato",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/a925934d-42b7-49b0-adf1-fe66146ca5de",
+    "topics": []
+  },
+  {
+    "id": "arduino-fundamentos-electronica",
+    "emoji": "🤖",
+    "title": "Arduino. Fundamentos. Electrónica.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/f252989a-6355-4e6c-809f-ff9747f48383",
     "topics": []
   },
   {
@@ -40,11 +144,35 @@
     "topics": []
   },
   {
+    "id": "campo-electrico-y-magnetico-fisica-selectividad-bachillerato",
+    "emoji": "⚡",
+    "title": "Campo eléctrico y magnético. Física. Selectividad. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/0f2b915b-e159-46a1-aa99-e4e7075c50db",
+    "topics": []
+  },
+  {
     "id": "integrales-matematicas-bachillerato",
     "emoji": "🐮",
     "title": "Integrales. Matemáticas. Bachillerato.",
     "description": "",
     "url": "https://notebooklm.google.com/notebook/70cd85f5-ec68-40d0-aa05-d88cb41da719",
+    "topics": []
+  },
+  {
+    "id": "rlc-electronica",
+    "emoji": "⚡",
+    "title": "RLC. Electrónica.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/d7ee0ca3-f227-4709-b6f8-04b6a28597dd",
+    "topics": []
+  },
+  {
+    "id": "ley-de-snell-ondas-fisica-selectividad-bachillerato",
+    "emoji": "🔦",
+    "title": "Ley de Snell. Ondas. Física. Selectividad. Bachillerato",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/e83778a2-235c-4b65-97c9-3c9c96a03b79",
     "topics": []
   },
   {
@@ -61,22 +189,6 @@
     "title": "Fuente de alimentación.",
     "description": "",
     "url": "https://notebooklm.google.com/notebook/ea2db94a-f427-4b45-8a0d-1753d5330341",
-    "topics": []
-  },
-  {
-    "id": "cean-circuitos-electronicos-analogicos",
-    "emoji": "🔌",
-    "title": "CEAN. Circuitos electrónicos analógicos.",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/290f2bf2-849c-4d5b-8a33-55225356d9f1",
-    "topics": []
-  },
-  {
-    "id": "guia-completa-de-formulacion-quimica-inorganica-iupac",
-    "emoji": "🧪",
-    "title": "Guía Completa de Formulación Química Inorgánica IUPAC",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/6c5b1a41-03e5-4efa-8791-0da1b00d024e",
     "topics": []
   }
 ]
