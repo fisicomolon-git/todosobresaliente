@@ -1,10 +1,146 @@
 [
   {
-    "id": "mru-movimiento-rectilineo-uniforme-fisica-secundaria",
-    "emoji": "🛶",
-    "title": "MRU. Movimiento rectilíneo uniforme. Física. Secundaria.",
+    "id": "ecuaciones-todos-los-tipos-de-secundaria-y-bachillerato-problemas-con-ecuaciones-matematicas",
+    "emoji": "🧮",
+    "title": "Ecuaciones. Todos los tipos de secundaria y bachillerato. Problemas con ecuaciones. Matemáticas.",
     "description": "",
-    "url": "https://notebooklm.google.com/notebook/0a9a3275-e473-4591-bd52-b41db1d00db8",
+    "url": "https://notebooklm.google.com/notebook/31fd82b2-3f41-4530-8e03-88911e46e380",
+    "topics": []
+  },
+  {
+    "id": "polinomios-monomios-operaciones-ruffini-factorizacion-ecuaciones-racionales",
+    "emoji": "➗",
+    "title": "Polinomios: monomios, operaciones, Ruffini, factorización, ecuaciones racionales.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/25d1678a-1524-43da-8b73-c17cf47fc280",
+    "topics": []
+  },
+  {
+    "id": "inecuaciones-primer-y-segundo-grado-2-incognitas-racionales-valor-absoluto-sistemas-intervaloes-matematicas-secundaria",
+    "emoji": "🧮",
+    "title": "Inecuaciones: Primer y segundo grado, 2 incognitas, racionales, valor absoluto, sistemas. Intervaloes. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/4ae221ef-372e-4a23-9e33-e38a15ad9b08",
+    "topics": []
+  },
+  {
+    "id": "funciones-analisis-completo-graficas-matematicas-bachillerato",
+    "emoji": "📈",
+    "title": "Funciones análisis completo. Gráficas. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/e3043940-912f-49bb-8c32-606d6d7280b2",
+    "topics": []
+  },
+  {
+    "id": "funciones-graficas-rectas-parabolas-matematicas-secundaria",
+    "emoji": "📈",
+    "title": "Funciones. Gráficas. Rectas. Parábolas. Matemáticas. Secundaria",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/11cf71e0-d728-401d-8758-f348f4409ab6",
+    "topics": []
+  },
+  {
+    "id": "geometria-analitica-matematicas-selectividad-matematicas",
+    "emoji": "📐",
+    "title": "Geometría analítica. Matemáticas. Selectividad. Matemáticas.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/0a3ab121-6016-4b72-904a-c7750b6d10e3",
+    "topics": []
+  },
+  {
+    "id": "fracciones-operaciones-con-fracciones-minimo-comun-multiplo-y-maximo-comun-divisor-matematicas-secundaria",
+    "emoji": "🧮",
+    "title": "Fracciones. Operaciones con fracciones. Mínimo común múltiplo y máximo común divisor. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/1a66a4ce-0db7-4724-98ce-34934eb61171",
+    "topics": []
+  },
+  {
+    "id": "logaritmos-y-ecuaciones-logaritmicas-exponenciales-matematicas-secundaria",
+    "emoji": "🪵",
+    "title": "Logaritmos y ecuaciones logarítmicas. Exponenciales. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/5f2a0c40-62f5-453d-bd16-677652e7ded5",
+    "topics": []
+  },
+  {
+    "id": "trigonometria-resolucion-de-triangulos-matematicas-secundaria",
+    "emoji": "📐",
+    "title": "Trigonometría. Resolución de triángulos. Matemáticas. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/36fd81f0-d6e2-4074-b63d-9a100364dbb5",
+    "topics": []
+  },
+  {
+    "id": "limites-de-funciones-matematicas-bachillerato",
+    "emoji": "👨‍🏫",
+    "title": "Límites de funciones. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/74ec6fba-d575-42f4-a3f6-54de3b49dfea",
+    "topics": []
+  },
+  {
+    "id": "numeros-compleos",
+    "emoji": "👨‍🏫",
+    "title": "Números compleos",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/faf12283-6bff-4cb5-b628-912935c3de39",
+    "topics": []
+  },
+  {
+    "id": "continuidad-de-funciones-funciones-a-trozos-matematicas-bachillerato",
+    "emoji": "📈",
+    "title": "Continuidad de funciones. Funciones a trozos. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/2d6c64d1-46f8-41ce-a991-4c52c72ddce7",
+    "topics": []
+  },
+  {
+    "id": "asintotas-de-funciones-matematicas-bachillerato",
+    "emoji": "📈",
+    "title": "Asíntotas de funciones. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/aed3aecc-df99-4540-ad40-0281da0d7c59",
+    "topics": []
+  },
+  {
+    "id": "derivadas-funciones-matematicas-bachillerato",
+    "emoji": "📈",
+    "title": "Derivadas. Funciones. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/1db616c0-eb5d-4fbc-8f87-c56e46f8ae69",
+    "topics": []
+  },
+  {
+    "id": "monotonia-y-extremos-crecimiento-y-decrecimiento-de-funciones-matematicas-bachillerato",
+    "emoji": "📈",
+    "title": "Monotonía y Extremos: Crecimiento y Decrecimiento de Funciones. Matemáticas. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/399c7d85-7ce8-4fc7-b73d-923fc0dacb37",
+    "topics": []
+  },
+  {
+    "id": "extremos-relativos-maximos-minimos-y-puntos-de-inflexion",
+    "emoji": "📉",
+    "title": "Extremos Relativos: Máximos, Mínimos y Puntos de Inflexión",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/6736207b-ee1a-4ee4-9fd7-d42974048f8b",
+    "topics": []
+  },
+  {
+    "id": "curvatura-puntos-de-inflexion-concavidad-y-convexidad-funciones-matematicas-bachillerato",
+    "emoji": "📈",
+    "title": "Curvatura, puntos de inflexión. Concavidad y convexidad. Funciones. Matemáticas. Bachillerato",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/26d2ce0b-c147-4751-b236-5253e5de5143",
+    "topics": []
+  },
+  {
+    "id": "curso-completo-de-dinamica-fisica-bachillerato",
+    "emoji": "🍎",
+    "title": "Curso completo de dinámica. Física. Bachillerato.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/067eccdd-5bba-4f8e-a305-4c86ae61ff01",
     "topics": []
   },
   {
@@ -13,6 +149,14 @@
     "title": "MRUA. Movimiento rectilíneo uniformemente acelerado. Caida libre. Física. Secundaria. Bachillerato.",
     "description": "",
     "url": "https://notebooklm.google.com/notebook/fdf582b7-c59a-4ecc-8ec0-776b26ee54ff",
+    "topics": []
+  },
+  {
+    "id": "mru-movimiento-rectilineo-uniforme-fisica-secundaria",
+    "emoji": "🛶",
+    "title": "MRU. Movimiento rectilíneo uniforme. Física. Secundaria.",
+    "description": "",
+    "url": "https://notebooklm.google.com/notebook/0a9a3275-e473-4591-bd52-b41db1d00db8",
     "topics": []
   },
   {
@@ -61,14 +205,6 @@
     "title": "Composición de Movimientos. Cinemática. Física. Secundaria",
     "description": "",
     "url": "https://notebooklm.google.com/notebook/cbce6895-148a-4d33-9163-5dda49e580e8",
-    "topics": []
-  },
-  {
-    "id": "curso-completo-de-dinamica-fisica-bachillerato",
-    "emoji": "🍎",
-    "title": "Curso completo de dinámica. Física. Bachillerato.",
-    "description": "",
-    "url": "https://notebooklm.google.com/notebook/067eccdd-5bba-4f8e-a305-4c86ae61ff01",
     "topics": []
   },
   {
